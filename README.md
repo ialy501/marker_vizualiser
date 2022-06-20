@@ -47,7 +47,7 @@ Afin de resumer l execution sur le 'rosrun', le roslauch peut facilite  la tache
   
 	sourcer:  source devel/setup.bash
 
-	executer :  roslaunch tp_ros_ialy marker_vizualiser.launch
+	executer :  roslaunch marker_vizualiser marker_vizualiser.launch
 
  
  
